@@ -1,6 +1,6 @@
 package com.coveros.hello_world;
 import java.util.Random;
-
+//adding a new comment to test the commit
 
 public class EvenNumberGenerator {
 		public static int generateRandomEven(){
