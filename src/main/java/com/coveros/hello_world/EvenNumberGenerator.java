@@ -2,6 +2,7 @@ package com.coveros.hello_world;
 import java.util.Random;
 //adding a new comment to test the commit
 //updated the formatting
+//hammid's feature
 
 public class EvenNumberGenerator {
 	public static int generateRandomEven(){
