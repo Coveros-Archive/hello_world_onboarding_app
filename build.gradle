@@ -84,7 +84,7 @@ uploadArchives {
            }
          
            // change to point to your repo, e.g. http://my.org/repo
-           url "http://ec2-52-87-160-3.compute-1.amazonaws.com:8081/nexus/content/repositories/snapshots"
+           url "http://ec2-52-207-222-33.compute-1.amazonaws.com:8081/nexus/content/repositories/snapshots"
      }
    }
 }
