@@ -1,5 +1,5 @@
 //adding a comment to test the commit 04/26/2016
-
+//Added comment
 //testing the Even Number Generator application
 package com.coveros.hello_world_tests;
 
