@@ -65,7 +65,7 @@ task app1Rpm(type: Rpm) {
 //      into ('/var/lib/tomcat/webapps') {
        addParentDirs = false
    from (war.outputs.files) {
-         //  addParentDirs = false
+           addParentDirs = false
        }
    }
 }
