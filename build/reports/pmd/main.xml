@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="5.1.1" timestamp="2016-04-21T12:41:46.306">
+<file name="/Users/hammidfunsho/Documents/workspace/hello_world/src/main/java/com/coveros/hello_world/EvenNumberGenerator.java">
+<violation beginline="7" endline="24" begincolumn="8" endcolumn="9" rule="CommentRequired" ruleset="Comments" package="com.coveros.hello_world" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.1.1/rules/java/comments.html#CommentRequired" priority="3">
+headerCommentRequirement Required
+</violation>
+<violation beginline="8" endline="15" begincolumn="23" endcolumn="17" rule="CommentRequired" ruleset="Comments" package="com.coveros.hello_world" class="EvenNumberGenerator" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.1.1/rules/java/comments.html#CommentRequired" priority="3">
+publicMethodCommentRequirement Required
+</violation>
+<violation beginline="16" endline="23" begincolumn="23" endcolumn="17" rule="CommentRequired" ruleset="Comments" package="com.coveros.hello_world" class="EvenNumberGenerator" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.1.1/rules/java/comments.html#CommentRequired" priority="3">
+publicMethodCommentRequirement Required
+</violation>
+</file>
+</pmd>
